@@ -71,20 +71,71 @@ Shane LeBouthillier, Computer Engineering student, University of Alberta, Canada
 Dan Cashmer, B. C. Ziegler & Co.
 
 只想庆祝你干的这么好,首先我是偶然间发现了TIJ的pdf版本。在这之前我竟然已经读完它了,我跑到储物间并发现了thinking in c++。现在,我已经
-在电脑商务八年了。做为一个顾问,软件开发者,老师/培训者。并且最近作为一个自由职业者。因此我更想去考虑我是否看的足够多(没有完全看完,不介
-意你,但是已经足够)然而,这些书导致我的女朋友叫我geek。并不是说我反对任何这些概念的东西 - 只是我认为这个阶段远远超出了我。但是我发现我自
-己其实挺享受这些书的,不想其他至今我接触过或者买的电脑书。很棒的写作方式。做的很好。
+在电脑商务八年了。做为一个顾问,软件开发者,老师/培训者。最近又作为一个自由职业者。因此我更想去考虑我是否看的足够多(没有完全看完,不介
+意吧,但是其实已经足够)然而,这些书导致我的女朋友叫我geek。并不是说我反对任何这些概念的东西,只是我认为这个阶段远远超出了我。但是我发现我自
+己其实挺享受这些书的,不想其他至今我接触过或者买的电脑书。很棒的写作方式,很好了介绍了每一个主题,并且在这本书中有很多的智慧,做的很好。
  Simon Goland, simonsez@smartt.com, Simon Says Consulting, Inc.
 
+我必须要说你的TIJ真的很伟大!它恰好就是我一直在寻找的书。特别是关于使用java好的坏的软件设计部分的章节。
+Dirk Duehr, Lexikon Verlag, Bertelsmann AG, Germany
 
+谢谢你写了两本很棒的书(TIC,TIJ)。你帮助我在面向对象的软件编程方面取得了很大的进步。
+Donald Lawson, DCL Enterprises
 
+感谢你花费时间在java这个方面写了这样有帮助的一本书。如果教学让你理解一些事情,那么现在你一定对自己特别的满意。
+Dominic Turner, GEAC Support
 
+这是我读过最棒的java书籍,即便我读了挺多这方面的书了。
+Jean-Yves MENGANT, Chief Software Architect NAT-SYSTEM, Paris, France
 
+thininKing in java有非常全面的介绍。可读性也很好,我的意思是说代码片段同样不错。
+Ron Chan, Ph.D., Expert Choice, Inc., Pittsburgh, Pa.
 
+你的书很好,我读了很多编程的书籍,你的书仍然给我头脑中带来了关于编程新的洞见
+Ningjian Wang, Information System Engineer, The Vanguard Group
 
+TIJ是一本优秀而且可读性很强的书,我把它推荐给了我所有的学生。
+Dr. Paul Gorman, Department of Computer Science, University of Otago, Dunedin, New Zealand
 
+通过你的书,我现在重新理解了面向对象编程意味着什么。。。我坚信java比Perl简洁容易的多。
+Torsten Römer, Orange Denmark
 
+你实现了一句谚语免费的午餐是存在的,不仅是汤式厨房,而且对那些偏好优质软件和书籍的人有美食餐厅。
+Jose Suriol, Scylax Corporation
 
+感谢你给了我们看到这本书成为一个典范的机会,在我阅读或者浏览过这类主题的书籍中,它是最好的。
+Jeff Lapchinsky, Programmer, Net Results Technologies
+
+你的书很简洁,很容易接受并且享受阅读的乐趣。
+Keith Ritchie, Java Research & Development Team, KL Group Inc.
+
+我读过java方面的书里他是最棒的。Daniel Eng
+
+感谢你写了这么好的一本书,我通过阅读这些章节得到了很多的乐趣
+Fred Trimble, Actium Corporation
+
+你有一种让我们缓慢但是成功抓住详情的引导艺术。你让学习变得非常容易并且很满意。感谢你提供真正精彩的教程。
+Rajesh Rau, Software Consultant
+
+thinking in java坚定了自由世界!
+Miko O’Sullivan, President, Idocs Inc.
+
+#About Thinking in C++:
+##获得了1995年软件开发杂志Jolt最佳图书奖。
+当你把它放在你自己的书架上时,这本书是一种极大的成就。关于iostreams的章节是迄今为止我所见过的最全面和最容易理解的主题。
+Al Stevens Contributing Editor, Doctor Dobbs Journal
+
+eckel的书是唯一一本如此清晰的解释了重新思考面向对象的程序设计的书。额外这本书还是一本深入了解c++教程的书。
+Andrew Binstock Editor, Unix Review
+
+我一直叹服Bruce在c++方面惊人的洞见,thinking in c++也是收集他最好看法的书。如果你想很清楚的回答关于c++很困难的一些问题,买这本杰出的
+书吧。
+Gary Entsminger Author, The Tao of Objects
+
+thinking in c++耐心并且有条不紊的探讨了当使用内联、引用,操作符重载,继承和对象的多态这些问题。以及进阶主题例如合适的使用模板、异常和多
+重继承。整本书的组织结构都受eckel自己对面向对象的思考和程序设计。它真的是每一位c++开发者都应该放在书架上的一本书。如果你是一个严肃的c++
+开发者thinking in c++是你一定要有的一本书。
+Richard Hale Shaw Contributing Editor, PC Magazine
 
 
 
